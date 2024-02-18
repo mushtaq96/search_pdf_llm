@@ -1,0 +1,36 @@
+# Compiled python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Generated files
+generated/
+output/
+
+# Log files
+*.log
+
+# Temporary files
+.tmp/
+temp/
+*.tmp
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Package files
+*.tar.gz
+*.egg-info
+dist/
+build/
+
+# Environment-specific files
+.env
+.env.local
